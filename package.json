@@ -1,0 +1,30 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "nuxt": "^3.1.0",
+    "vite-plugin-vuetify": "^1.0.2"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.1.96",
+    "@vueup/vue-quill": "^1.2.0",
+    "libphonenumber-js": "^1.10.39",
+    "maz-ui": "^3.9.0",
+    "quill-blot-formatter": "^1.0.5",
+    "sass": "^1.63.6",
+    "vue-advanced-cropper": "^2.8.8",
+    "vue-google-autocomplete": "^1.1.4",
+    "vue-toast-notification": "^3.1.1",
+    "vue3-easy-data-table": "^1.5.47",
+    "vue3-google-map": "^0.15.0",
+    "vuedraggable": "^4.1.0",
+    "vuetify": "3.3.11"
+  }
+}
